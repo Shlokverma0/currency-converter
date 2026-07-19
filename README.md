@@ -22,7 +22,7 @@ A simple, responsive currency converter web app that fetches **live exchange rat
 
 ## 🚀 Live Demo
 
-🔗 [View Live Demo](#) <!-- Add your deployed link here once live -->
+🔗 [View Live Demo](https://stately-kelpie-cc0aed.netlify.app)
 
 ## 📸 Preview
 
