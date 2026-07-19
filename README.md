@@ -2,8 +2,6 @@
 
 A simple, responsive currency converter web app that fetches **live exchange rates** and lets you convert between 160+ world currencies — with dark mode, flag icons, and a clean UI.
 
-(screenshot.png)
-
 ## ✨ Features
 
 - 🔄 **Live exchange rates** — fetched in real-time from ExchangeRate-API
