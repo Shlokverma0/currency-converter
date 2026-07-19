@@ -2,7 +2,7 @@
 
 A simple, responsive currency converter web app that fetches **live exchange rates** and lets you convert between 160+ world currencies — with dark mode, flag icons, and a clean UI.
 
-![Currency Converter Screenshot](screenshot.png)
+(screenshot.png)
 
 ## ✨ Features
 
