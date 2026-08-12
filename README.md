@@ -9,7 +9,7 @@ A simple, responsive currency converter web app that fetches **live exchange rat
 - 🏳️ **Flag icons** — visual currency identification next to each dropdown
 - ⇄ **Swap button** — instantly flip From/To currencies
 - ⏳ **Loading spinner** — smooth UX while rates are being fetched
-- 📱 **Responsive design** — works on both desktop and mobile
+- 📱 **Responsive design** — works on desktop and mobile
 - 🕒 **Last updated timestamp** — always know how fresh the rates are do
 
 ## 🛠️ Tech Stack
